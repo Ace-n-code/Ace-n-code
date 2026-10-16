@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,50:312E81,100:0891B2&height=200&section=header&text=ACE-N-CODE&fontSize=48&fontColor=E0F2FE&animation=fadeIn&fontAlignY=38&desc=Curiosity%20%7C%20Code%20%7C%20Creation&descAlignY=58&descSize=16" width="100%" alt="Ace-n-code developer banner"/>
-
 # `> Hello~! I'm Ace` ^^
 
 ### `Student • Developer • Gamer`
@@ -10,7 +8,7 @@
 
 ---
 
-## `// whoami`
+## `// whoami???`
 
 I'm a Computer Applications student interested in the intersection of software, AI, ML, and creative technology.
 
@@ -56,4 +54,4 @@ I enjoy experimenting with ideas, solving problems, and building projects that t
 - Unity for game development
 - Research and experimentation
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891B2,50:312E81,100:0B1020&height=100&section=footer" width="100%" alt="Decorative footer"/>
+
